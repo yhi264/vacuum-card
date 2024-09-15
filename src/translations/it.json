@@ -4,8 +4,8 @@
     "paused": "In pausa",
     "idle": "Inattivo",
     "charging": "In carica",
-    "returning home": "In rientro alla base",
-    "docked": "In Base"
+    "returning_home": "In rientro alla base",
+    "docked": "Alla Base"
   },
   "source": {
     "gentle": "Gentile",
@@ -23,7 +23,7 @@
     "stop": "Stop",
     "return_to_base": "Base",
     "locate": "Trova aspirapolvere",
-    "not_available": "Vacuum non disponibile"
+    "not_available": "Aspirapolvere non disponibile"
   },
   "error": {
     "missing_entity": "È necessario specificare l'entità!"
@@ -43,7 +43,7 @@
     "show_name_aria_label_off": "Disattiva nome",
     "show_status": "Mostra Stato",
     "show_status_aria_label_on": "Attiva stato",
-    "show_status_aria_label_off": "Disattiva stato",    
+    "show_status_aria_label_off": "Disattiva stato",
     "show_toolbar": "Mostra barra degli strumenti",
     "show_toolbar_aria_label_on": "Attiva barra degli strumenti",
     "show_toolbar_aria_label_off": "Disattiva barra degli strumenti",
